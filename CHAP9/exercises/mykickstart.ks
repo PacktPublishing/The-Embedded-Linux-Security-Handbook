@@ -31,4 +31,5 @@ services --enabled=sshd
 user --name=mstonge --groups=wheel --plaintext --password=embedded
 
 # set root password
-rootpw --plaintext --password=embedded
+rootpw --plaintext embedded
+
