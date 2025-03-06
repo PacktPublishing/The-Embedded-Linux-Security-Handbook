@@ -16,7 +16,7 @@ part / --grow --fstype xfs
 
 # here’s where we reference the container image
 # notice this kickstart has no packages section
-ostreecontainer --url quay.io/matt_st_onge/bootc/lamp-bootc:latest \
+ostreecontainer --url quay.io/[quay_username]/bootc/lamp-bootc:latest \
  --no-signature-verification
 
 # additional settings for demonstration purposes
