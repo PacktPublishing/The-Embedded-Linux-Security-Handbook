@@ -1,0 +1,16 @@
+FROM quay.io/centos-bootc/centos-bootc:stream9
+
+RUN dnf install -y httpd mariadb mariadb-server php-fpm php-mysqlnd && dnf clean all
+
+RUN systemctl enable httpd mariadb php-fpm
+
+# this next command is all one line although looks 
+# like two or more
+
+RUN echo '<h1 style="Text-align:center;">Welcome to My Appliance</h1><?php phpinfo(); ?>' >> /var/www/html/index.php
+
+# new stuff
+
+RUN dnf install -y cockpit
+
+RUN systemctl enable cockpit.socket
