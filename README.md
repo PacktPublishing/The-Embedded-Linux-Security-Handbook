@@ -21,8 +21,8 @@ Matt St. Onge</p>
 </p>
 <details open> 
   <summary><h2>About the book</summary>
-<a href="https://www.packtpub.com/product/unity-cookbook-fifth-edition/9781805123026">
-<img src="https://content.packt.com/B22104/cover_image_small.jpg" alt="Unity Cookbook, Fifth Edition" height="256px" align="right">
+<a href="https://www.packtpub.com/en-us/product/the-embedded-linux-security-handbook-9781835885642">
+<img src="https://content.packt.com/B22104/cover_image_small.jpg" alt="The Embedded Linux Security Handbook" height="256px" align="right">
 </a>
 
 As embedded Linux systems power countless devices in our daily lives, and they’ve become prime targets for cyberattacks. In this in-depth guide to safeguarding your Linux devices, the author leverages his 30+ years of technology experience to help you mitigate the risks associated with hardware and software vulnerabilities.
