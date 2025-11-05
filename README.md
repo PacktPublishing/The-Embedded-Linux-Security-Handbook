@@ -1,6 +1,6 @@
 <h1 align="center">
 The Embedded Linux Security Handbook, First Edition</h1>
-<p align="center">This is the code repository for <a href = "[https://www.packtpub.com/en-us/product/the-embedded-linux-security-handbook-9781835885642]"> The Embedded Linux Security Handbook, First Edition</a>, published by Packt.
+<p align="center">This is the code repository for <a href="https://www.packtpub.com/en-us/product/the-embedded-linux-security-handbook-9781835885642"> The Embedded Linux Security Handbook, First Edition</a>, published by Packt.
 </p>
 
 <h2 align="center">
