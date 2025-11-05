@@ -50,7 +50,7 @@ By the end of this book, you’ll be able to adapt your appliance to the ever-ev
 
 <details open> 
   <summary><h2>Chapters</summary>
-     <img src="https://cliply.co/wp-content/uploads/2020/02/372002150_DOCUMENTS_400px.gif" alt="Unity Cookbook, Fifth Edition" height="556px" align="right">
+     <img src="https://cliply.co/wp-content/uploads/2020/02/372002150_DOCUMENTS_400px.gif" alt="The Embedded Linux Secuirty Handbook" height="556px" align="right">
 <ol>
 
   <li>Welcome to the Cyber Security Landscape</li>
